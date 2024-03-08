@@ -7,7 +7,7 @@ heroColor: ''
 abbrlink: Loveumi
 tags: 
     - 'Tutorial'
-category: 'Umi''&#96''world'
+category: 'Default Page'
 lang: 'en'
 ---
 
