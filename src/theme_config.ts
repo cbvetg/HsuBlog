@@ -142,7 +142,7 @@ export const ThemeConfig: Configs = {
     // copyright: `&copy; 2022-{{const today = new Date();return today.getFullYear();}} By [枢衡KraHsu](/about)`,
   },
   homePage: {
-    heroShoot: "/heroimg.jpg",
+    heroShoot: "/backgroundimg.jpg",
     heroTitle: "KraHsu's Blog",
     heroDescription: "A beautiful, customized, personal blog theme for Astro",
     paginationSize: 10,
